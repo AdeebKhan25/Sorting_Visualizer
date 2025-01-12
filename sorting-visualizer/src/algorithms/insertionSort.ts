@@ -3,7 +3,7 @@ import { AnimationArrayType } from "@/libs/types";
 function runInsertionSort(array: number[], animations: AnimationArrayType) {
     const n = array.length;
     for (let i = 1; i < n; i++) {
-        let key = array[i];
+        const key = array[i];
         let j = i - 1;
         animations.push([[i], false]);
         while (j >= 0 && array[j] > key) {

@@ -5,7 +5,7 @@ import { Slider } from "@/components/input/slider";
 import { useSortingAlgorithmContext } from "@/context/visualizer";
 import { algorithmOptions, generateAnimationArray, sortingAlgoData } from "@/libs/utils";
 import { SortingAlgorithmType } from "@/libs/types";
-import { use, useEffect } from "react";
+import { useEffect } from "react";
 import { RxReset } from "react-icons/rx";
 import { FaPlayCircle } from "react-icons/fa";
 
