@@ -4,9 +4,9 @@ A web-based sorting algorithm visualizer built using Next.js and Tailwind CSS. T
 
 ## Features
 
-1. Visualizes common sorting algorithms in real-time
+1. Visualizes common sorting algorithms in real-time.
 2. Clean, responsive user interface built with Tailwind CSS.
-3. Easy-to-understand color-coded animations to demonstrate sorting steps
+3. Easy-to-understand color-coded animations to demonstrate sorting steps.
 
 ## Algorithms Included
 
@@ -41,9 +41,12 @@ yarn build
 ```bash
 yarn start
 ```
-## Screenshot
+## Screenshots
 
 ![Screenshot 2025-01-12 154801](https://github.com/user-attachments/assets/08a2e88f-1cda-491d-93ab-c2a24d352a00)
+
+![Screenshot 2025-01-12 155445](https://github.com/user-attachments/assets/12e15886-f91a-4a2f-9ba7-5c304dbe027c)
+
 
 ### Further Assistance
 If you need any more help or have other questions, feel free to ask. Happy coding! 🚀
