@@ -1,12 +1,21 @@
-# Weather App
+# Sorting Visualizer
 
-A simple and intuitive weather application built with React and powered by Openweathermap API. Get real-time weather updates for any location with beautiful visualizations and user-friendly interface.
+A web-based sorting algorithm visualizer built using Next.js and Tailwind CSS. This project allows users to visualize various sorting algorithms like Bubble Sort, Selection Sort, Quick Sort, Merge Sort, and others in action, providing an interactive and educational experience.
 
 ## Features
 
-1. View current weather conditions for any city in the world.
-2. Responsive design for seamless experience across devices.
-3. Built with React, JavaScript, and integrates with Openweathermap API. Explore the weather like never before!
+1. Visualizes common sorting algorithms in real-time
+2. Clean, responsive user interface built with Tailwind CSS.
+3. Easy-to-understand color-coded animations to demonstrate sorting steps
+
+## Algorithms Included
+
+1. Bubble Sort
+2. Insertion Sort
+3. Selection Sort
+4. Quick Sort
+5. Merge Sort
+6. Heap Sort
 
 ## Getting Started
 
@@ -14,24 +23,27 @@ To get started with this project locally, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AdeebKhan25/WeatherApp.git
+git clone https://github.com/AdeebKhan25/Sorting_Visualizer.git
 ```
 2. Navigate to the WeatherApp directory:
 ```bash
-cd WeatherApp
+cd Sorting_Visualizer
 ```
 3. Install dependencies:
 ```bash
 yarn install
 ```
-4. Create a .env file and add your API key.
+3. Build the app:
+```bash
+yarn build
+```
 5. Start the app:
 ```bash
-yarn run dev
+yarn start
 ```
 ## Screenshot
 
-![WA](https://github.com/user-attachments/assets/e0f4d2e2-fc6c-463c-b8e8-78e22d2bce5d)
+![Screenshot 2025-01-12 154801](https://github.com/user-attachments/assets/08a2e88f-1cda-491d-93ab-c2a24d352a00)
 
 ### Further Assistance
 If you need any more help or have other questions, feel free to ask. Happy coding! 🚀
